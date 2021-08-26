@@ -2,6 +2,8 @@
 
 Charla realizada en día 26 de agosto del 2021
 
+[Slides](https://slides.com/juancxh/deck-3a9454).
+
 ## Contexto
 
 Se habló de la solución que brinda flutter al problema del desarrollo de aplicaciones mobiles, en cuanto a tiempo y creación de código.
