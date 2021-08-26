@@ -9,7 +9,8 @@ class Withoutstate extends StatelessWidget {
       color: Colors.green,
       width: MediaQuery.of(context).size.width,
       height: MediaQuery.of(context).size.height,
-      child: Text("Fta"),
+      padding: EdgeInsets.all(120),
+      child: Image.asset("assets/android.png"),
     );
   }
 }

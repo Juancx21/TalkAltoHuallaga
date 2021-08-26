@@ -1,16 +1,16 @@
-# firstalk
+# Descubre el poder de Flutter
 
-A new Flutter project.
+Charla realizada en día 26 de agosto del 2021
 
-## Getting Started
+## Contexto
 
-This project is a starting point for a Flutter application.
+Se habló de la solución que brinda flutter al problema del desarrollo de aplicaciones mobiles, en cuanto a tiempo y creación de código.
 
-A few resources to get you started if this is your first Flutter project:
+## Demos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Widget con estado
+![Con estado](/assets/screenshots/withstate.png)
+* Widget sin estado
+![Sin estado](/assets/screenshots/withoutstate.png)
+* BBVA animación
+![Animación BBVA](/assets/screenshots/bbva.png)
