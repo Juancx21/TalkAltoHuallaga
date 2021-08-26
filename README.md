@@ -8,9 +8,9 @@ Se habló de la solución que brinda flutter al problema del desarrollo de aplic
 
 ## Demos
 
-* Widget con estado
+1. Widget con estado <br>
 ![Con estado](/assets/screenshots/withstate.png)
-* Widget sin estado
+2. Widget sin estado <br>
 ![Sin estado](/assets/screenshots/withoutstate.png)
-* BBVA animación
+3. BBVA animación <br>
 ![Animación BBVA](/assets/screenshots/bbva.png)
